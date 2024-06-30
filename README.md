@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web development
 - 🌱 I'm also a Flutter Developer 
 - 👯 I’m looking to collaborate on web projects
-- 📫 Reach me via email at urawane03@gmail.com & connect me on [LinkedIn](https://www.linkedin.com/in/tejas-patange-bb700b229/)
+- 📫 Reach me via email at patangetejas25@gmail.com & connect me on [LinkedIn](https://www.linkedin.com/in/tejas-patange-bb700b229/)
